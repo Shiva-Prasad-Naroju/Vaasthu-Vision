@@ -1,0 +1,45 @@
+[
+    {
+        "rule": "Rule 1",
+        "description": "The kitchen should be placed in the right direction to maintain harmony in the household.",
+        "recommended_directions": ["Southeast"],
+        "restricted_directions": ["North", "Northeast"],
+        "importance": "Improves health and ensures a balanced family life."
+    },
+    {
+        "rule": "Rule 2",
+        "description": "The main entrance should be positioned carefully to allow positive energy and prosperity.",
+        "recommended_directions": ["North", "East", "Northeast"],
+        "restricted_directions": ["Southwest", "Southeast"],
+        "importance": "Enhances financial stability and overall well-being."
+    },
+    {
+        "rule": "Rule 3",
+        "description": "The master bedroom should be located correctly to ensure stability and peace.",
+        "recommended_directions": ["Southwest"],
+        "restricted_directions": ["Northeast", "Southeast"],
+        "importance": "Promotes relaxation, better sleep, and strong relationships."
+    },
+    {
+        "rule": "Rule 4",
+        "description": "The pooja room should be placed in an auspicious direction for positive vibrations.",
+        "recommended_directions": ["Northeast"],
+        "restricted_directions": ["South", "Southwest"],
+        "importance": "Enhances spiritual growth and mental peace."
+    },
+    {
+        "rule": "Rule 5",
+        "description": "The bathroom should be positioned correctly to prevent negative energy accumulation.",
+        "recommended_directions": ["Northwest"],
+        "restricted_directions": ["Northeast", "Southwest"],
+        "importance": "Prevents health issues and maintains a hygienic atmosphere."
+    },
+    {
+        "rule": "Rule 6",
+        "description": "The staircase should be positioned correctly to avoid financial and health issues.",
+        "recommended_directions": ["Southwest", "West"],
+        "restricted_directions": ["Northeast", "Center of the house"],
+        "importance": "Ensures financial stability and smooth movement in the house."
+    }
+    
+]
